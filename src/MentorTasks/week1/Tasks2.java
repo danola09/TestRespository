@@ -45,5 +45,9 @@ public class Tasks2 {
             System.out.println("The quotient is " + divide(dividend, divisor));
         }
     }
+    /*
+    This was from the techie website: https://www.techiedelight.com/perform-division-two-numbers-without-using-division-operator/
+
+     */
 
 
